@@ -1,0 +1,6 @@
+you-get>=0.4
+yt-dlp>=2024
+opencv-python>=4.8
+openai-whisper>=20231117
+openai>=1.0
+numpy>=1.24
